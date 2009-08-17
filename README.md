@@ -14,14 +14,11 @@ Services:
 Packages:
 
 * puppet
-* ruby
+* ruby ee
 * irb
-* sudo
-* build-essential
 * Ruby/MySQL bindings
 * Ruby/Postgresql bindings
 * Ruby nokogiri (libxslt1-dev and libxml2-dev)
-* rsync
 * locales
 
 Rubygems:
@@ -38,17 +35,15 @@ Configuration Files:
 * Postfix
 * iptables
 * backups
+* `/etc/sudoers`
+* ssh keys
 
 Users:
 
-* edavis
-* sysadmin
 * git
 * Specific Rails application names
 
 Groups:
 
-* edavis
-* sysadmin
 * git
 * Specific Rails application names
