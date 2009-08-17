@@ -15,7 +15,6 @@ Packages:
 
 * puppet
 * ruby ee
-* irb
 * Ruby/MySQL bindings
 * Ruby/Postgresql bindings
 * Ruby nokogiri (libxslt1-dev and libxml2-dev)
