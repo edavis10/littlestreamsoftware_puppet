@@ -1,3 +1,9 @@
 [submodule "manifests/private"]
 	path = manifests/private
 	url = git@dev.littlestreamsoftware.com:littlestreamsoftware_puppet_private.git
+[submodule "modules/puppet-ruby1.8"]
+	path = modules/puppet-ruby1.8
+	url = git://github.com/littleidea/puppet-ruby1.8.git
+[submodule "modules/puppet-rubygems"]
+	path = modules/puppet-rubygems
+	url = git://github.com/littleidea/puppet-rubygems.git
