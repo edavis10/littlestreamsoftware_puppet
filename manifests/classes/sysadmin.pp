@@ -1,6 +1,6 @@
 class sysadmin inherits virt_users {
   realize(
-    Group["sysadmin"],
+    Group["sysadmin"]
   )
   User["edavis"] { groups => 'sysadmin' }
 
