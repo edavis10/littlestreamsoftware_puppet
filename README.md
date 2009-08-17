@@ -27,6 +27,7 @@ Packages:
 * Ruby/Postgresql bindings
 * Ruby nokogiri (libxslt1-dev and libxml2-dev)
 * rsync
+* locales
 
 Rubygems:
 
