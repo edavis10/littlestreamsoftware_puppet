@@ -1,0 +1,3 @@
+[submodule "manifests/private"]
+	path = manifests/private
+	url = git@dev.littlestreamsoftware.com:littlestreamsoftware_puppet_private.git
