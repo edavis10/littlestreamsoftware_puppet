@@ -1,3 +1,4 @@
+import "modules"
 import "templates"
 import "nodes"
 import "classes/*"
