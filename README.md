@@ -14,7 +14,6 @@ Services:
 Packages:
 
 * puppet
-* git-core
 * ruby
 * irb
 * sudo

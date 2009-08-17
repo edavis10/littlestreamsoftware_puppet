@@ -12,6 +12,7 @@ class baseclass {
 node default {
   include baseclass
   include sudo
+  include git
 }
 
 # class webserver {
