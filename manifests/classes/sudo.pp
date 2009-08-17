@@ -1,7 +1,12 @@
 class sudo {
-    file { "/etc/sudoers":
-        owner => "root",
-        group => "root",
-        mode  => 440,
-    }
+  package {"sudo":
+    ensure => installed,
+  }
+
+  file {"/etc/sudoers":
+    ensure => present,
+    owner  => root,
+    group  => root,
+    mode   => 440,
+  }
 }
