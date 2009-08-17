@@ -6,7 +6,6 @@ Services:
 * Passenger from gem
 * Postgresql
 * MySQL
-* SSH
 * iptables
 * gitosis
 * Postfix ?
@@ -14,14 +13,11 @@ Services:
 
 Packages:
 
-* screen
 * puppet
 * git-core
 * ruby
 * irb
-* emacs22-nox
 * sudo
-* htop
 * build-essential
 * Ruby/MySQL bindings
 * Ruby/Postgresql bindings
