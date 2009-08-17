@@ -1,6 +1,6 @@
 # Contains "template nodes"
 
-class basenode {
+class baseclass {
   case $operatingsystem {
     fedora: { include fedora }
     debian: { include debian }
