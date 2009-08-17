@@ -1,5 +1,6 @@
+import "templates"
+import "nodes"
 import "classes/*"
-
-node default {
-    include sudo
-}
+import "groups/*"
+import "users/*"
+import "os/*"
