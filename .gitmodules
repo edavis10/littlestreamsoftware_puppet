@@ -7,3 +7,6 @@
 [submodule "modules/puppet-rubygems"]
 	path = modules/puppet-rubygems
 	url = git://github.com/littleidea/puppet-rubygems.git
+[submodule "modules/puppet-mysql"]
+	path = modules/puppet-mysql
+	url = git://github.com/littleidea/puppet-mysql.git
