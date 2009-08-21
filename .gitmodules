@@ -13,6 +13,3 @@
 [submodule "modules/puppet-apache2"]
 	path = modules/puppet-apache2
 	url = git://github.com/littleidea/puppet-apache2.git
-[submodule "modules/puppet-passenger"]
-	path = modules/puppet-passenger
-	url = git://github.com/edavis10/puppet-passenger.git
