@@ -10,3 +10,9 @@
 [submodule "modules/puppet-mysql"]
 	path = modules/puppet-mysql
 	url = git://github.com/littleidea/puppet-mysql.git
+[submodule "modules/puppet-apache2"]
+	path = modules/puppet-apache2
+	url = git://github.com/littleidea/puppet-apache2.git
+[submodule "modules/puppet-passenger"]
+	path = modules/puppet-passenger
+	url = git://github.com/littleidea/puppet-passenger.git
