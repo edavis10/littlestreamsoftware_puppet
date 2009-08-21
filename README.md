@@ -2,10 +2,7 @@
 
 Services:
 
-* Apache
-* Passenger from gem
 * Postgresql
-* MySQL
 * iptables
 * gitosis
 * Postfix ?
