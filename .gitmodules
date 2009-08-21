@@ -15,4 +15,4 @@
 	url = git://github.com/littleidea/puppet-apache2.git
 [submodule "modules/puppet-passenger"]
 	path = modules/puppet-passenger
-	url = git://github.com/littleidea/puppet-passenger.git
+	url = git://github.com/edavis10/puppet-passenger.git
