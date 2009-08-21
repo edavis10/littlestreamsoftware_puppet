@@ -5,5 +5,5 @@ import "puppet-mysql/database"
 
 import "puppet-apache2"
 import "puppet-apache2/site"
-import "puppet-passenger"
-import "puppet-passenger/enable"
+import "passenger"
+import "passenger/enable"
